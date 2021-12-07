@@ -1,0 +1,18 @@
+.box{
+	
+	padding: 20px;
+	border-style: solid;
+	border-width: 20px;
+	border-color: pink;;
+	
+}
+
+h1{
+	color: pink;
+}
+
+table, th, td{
+	border-width: 1px;
+	border-style: solid;
+	border-color: pink;
+}
